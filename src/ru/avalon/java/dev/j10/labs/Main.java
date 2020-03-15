@@ -8,6 +8,7 @@ public class Main {
      * FIXME(Студент): Измените определение метода так, чтобы он стал точкой входа в приложение.
      */
     Main() {
+        System.out.println("Hello, world!!!");
 
         Person ivanov = null;
         Person smith = null;
