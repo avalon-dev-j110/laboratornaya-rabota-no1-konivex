@@ -17,4 +17,8 @@ package ru.avalon.java.dev.j10.labs.commons;
  */
 public class Address
 {
+
+    public Address() {
+    }
+    
 }
