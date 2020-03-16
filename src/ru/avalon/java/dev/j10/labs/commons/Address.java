@@ -17,4 +17,12 @@ package ru.avalon.java.dev.j10.labs.commons;
  */
 public class Address
 {
+    private String city;
+    private String street;
+
+    public Address(String city, String street) {
+        this.city = city;
+        this.street = street;
+    }
+    
 }
